@@ -54,3 +54,5 @@ for num in numeros:
     print(f"Ejecutando el ultimo bucle, valor actual: {num}\n")
 else:
     print("El bucle ha terminado")
+    
+#todo lo anterior funciona exactamente igual para las tuplas y conjuntos
