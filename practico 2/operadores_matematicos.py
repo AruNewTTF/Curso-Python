@@ -43,7 +43,7 @@ while seleccionador != 0:
     elif seleccionador == 3:
         a = multiplicar()
         print(f"El resultado de tu mutiplicacion es: {a}")
-    elif seleccionador == 2:
+    elif seleccionador == 4:
         a = division()
         print(f"El resultado de tu divison es: {a}")
     elif seleccionador == 0:
